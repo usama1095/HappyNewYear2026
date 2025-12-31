@@ -30,7 +30,7 @@ Check it out live: [🌐 View Live](http://officialranausama.me/HappyNewYear2026
 
 1. Clone the repository:  
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/HappyNewYear2026.git
+git clone https://github.com/usama1095/HappyNewYear2026.git
 ```
 2. Open the project folder:
    ```
